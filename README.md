@@ -5,6 +5,34 @@
 
 ---
 
+
+<!--Connections -->
+</p>
+<p align="center">
+  <a href="https://linktr.ee/Elnagar_74" target="_blank">
+    <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree Badge" />
+  </a>
+    <a href="https://www.kaggle.com/elnagar74" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge"/>
+  </a>
+    <a href="https://leetcode.com/u/Elnaggar_74/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge" />
+  </a>
+    <a href="https://codeforces.com/profile/Elnagar_74" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Badge" />
+  </a>
+</p>
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=elnaggar74&label=Profile%20views&color=0e75b6&style=flat-square" />
+  <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Delnaggar74&longCache=true"/>
+  <a href="https://www.linkedin.com/in/elnagar74/" target="_blank">
+     <img src="https://img.shields.io/badge/LinkedIn-Mahmoud_Elnagar-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
+
+---
+
 ## About Me
 
 - I'm passionate about Machine Learning and AI.  
@@ -62,7 +90,6 @@
   <!-- GitHub Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=elnagar74&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=5" height="150" alt="GitHub Trophies" />
 </div>
-
 
 ---
 
