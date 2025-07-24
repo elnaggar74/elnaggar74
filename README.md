@@ -7,20 +7,22 @@
 
 
 <!--Connections -->
-</p>
-<p align="center">
-  <a href="https://linktr.ee/Elnagar_74" target="_blank">
-    <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree Badge" />
+<p align="center">  
+  <a href="https://linktr.ee/Elnagar_74" target="_blank">     
+    <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree Badge" />   
+  </a>     
+  <a href="https://www.kaggle.com/elnagar74" target="_blank">     
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge"/>   
   </a>
-    <a href="https://www.kaggle.com/elnagar74" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge"/>
+    <a href="mailto:mhmoud.elnagar74@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
   </a>
-    <a href="https://leetcode.com/u/Elnaggar_74/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge" />
-  </a>
-    <a href="https://codeforces.com/profile/Elnagar_74" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Badge" />
-  </a>
+  <a href="https://leetcode.com/u/Elnaggar_74/" target="_blank">     
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge" />   
+  </a>     
+  <a href="https://codeforces.com/profile/Elnagar_74" target="_blank">     
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Badge" />   
+  </a> 
 </p>
 
 <p align="center">
@@ -58,55 +60,50 @@
 
 ---
 
-## Projects
+## 🚀 Projects
 
-### 🔹 [Student Performance Prediction](https://github.com/Elnagar74/Student-Performance-Prediction)
-> A machine learning model to predict student performance based on various features using Multiple Linear Regression.  
->  🛠 Tech: Python, Scikit-learn, Regression, Data Preprocessing, Feature Engineering
-
----
-
-### 🔹 [NYC Airbnb Market Analysis 2024](https://github.com/Elnagar74/NYC-Airbnb-Project)
-> A comprehensive market analysis of New York City’s Airbnb market using real 2024 data.  
->  🛠 Tech: Python, Data Cleaning, Data Visualization, EDA
+### 🔹 [Student Performance Prediction](https://github.com/elnaggar74/Student-Performance-Prediction)
+A machine learning model that predicts student performance using Multiple Linear Regression.  
+**Tech Stack:** `Python` · `Scikit-learn` · `Regression` · `Data Preprocessing` · `Feature Engineering`
 
 ---
 
-### 🔹 [Netflix Movies and TV Shows Analysis](https://github.com/Elnagar74/Netflix-Movies-and-TV-Shows)
-> Analyzes Netflix’s content distribution, release trends, and data patterns.  
->  🛠 Tech: Python, Pandas, Matplotlib, Seaborn, EDA
+### 🔹 [NYC Airbnb Market Analysis 2024](https://github.com/elnaggar74/NYC-Airbnb-Project)
+A detailed market analysis of New York City’s Airbnb data from 2024, highlighting price trends and neighborhood insights.  
+**Tech Stack:** `Python` · `Pandas` · `EDA` · `Data Cleaning` · `Visualization`
 
 ---
 
+### 🔹 [Netflix Movies and TV Shows Analysis](https://github.com/elnaggar74/Netflix-Movies-and-TV-Shows)
+Insights into Netflix’s content distribution, genre trends, and yearly release patterns.  
+**Tech Stack:** `Python` · `Pandas` · `Matplotlib` · `Seaborn` · `EDA`
+
+---
 ## GitHub Stats
 
-<div align="center">
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elnagar74&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
-
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=elnagar74&mode=daily&theme=tokyonight&hide_border=true&border_radius=8" height="150" alt="GitHub Streak" />
-
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=elnagar74&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=5" height="150" alt="GitHub Trophies" />
-</div>
-
----
-
-## Contact Me
+<p align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=elnaggar74&show_icons=true&theme=onedark&hide_title=false" width="95%" alt="GitHub Stats" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-streak-stats-eight.vercel.app/?user=elnaggar74&theme=onedark" width="95%" alt="GitHub Streaks" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elnaggar74&layout=donut&theme=onedark" width="95%" alt="Top Languages" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://leetcard.jacoblin.cool/Elnaggar_74?ext=heatmap&theme=dark" width="95%" alt="LeetCode Stats" />
+      </td>
+    </tr>
+  </table>
+</p>
 
 <p align="center">
-  <a href="mailto:mhmoud.elnagar74@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="30"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/elnagar74/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Elnagar74">
-    <img src="https://skillicons.dev/icons?i=github" height="30"/>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elnaggar74&theme=onedark" width="95%" />
 </p>
 
 ---
