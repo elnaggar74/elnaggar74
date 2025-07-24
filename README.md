@@ -5,8 +5,8 @@
 
 ---
 
-
 <!--Connections -->
+
 <p align="center">  
   <a href="https://linktr.ee/Elnagar_74" target="_blank">     
     <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree Badge" />   
@@ -40,27 +40,40 @@
 - I'm passionate about Machine Learning and AI.  
 - I have hands-on experience in developing and training models through coursework and personal mini-projects.  
 - Currently, I'm focused on building practical ML applications and improving my data analysis skills.
-- Open to collaborate on Machine Learning, Data Science projects, Exploratory Data Analysis, and visualizations.
+- Open to collaborating on Machine Learning, Data Science projects, Exploratory Data Analysis, and visualizations.
 - I also enjoy solving algorithmic challenges - I've solved over **800 problems** on **Codeforces** and **LeetCode**.  
 
 ---
 
 ## Skills
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+### 🔹 Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white" />
+</p>
+
+### 🔹 Data Science & Machine Learning Libraries
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=seaborn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+</p>
+
+### 🔹 Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### 🔹 [Student Performance Prediction](https://github.com/elnaggar74/Student-Performance-Prediction)
 A machine learning model that predicts student performance using Multiple Linear Regression.  
@@ -79,6 +92,7 @@ Insights into Netflix’s content distribution, genre trends, and yearly release
 **Tech Stack:** `Python` · `Pandas` · `Matplotlib` · `Seaborn` · `EDA`
 
 ---
+
 ## GitHub Stats
 
 <p align="center">
