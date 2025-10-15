@@ -37,11 +37,12 @@
 
 ## About Me
 
-- I'm passionate about Machine Learning and AI.  
-- I have hands-on experience in developing and training models through coursework and personal mini-projects.  
-- Currently, I'm focused on building practical ML applications and improving my data analysis skills.
-- Open to collaborating on Machine Learning, Data Science projects, Exploratory Data Analysis, and visualizations.
-- I also enjoy solving algorithmic challenges - I've solved over **800 problems** on **Codeforces** and **LeetCode**.  
+- I’m a Machine Learning Engineer passionate about transforming data into intelligent solutions. 
+- Experienced in building, evaluating, and deploying predictive models.
+- Skilled in supervised & unsupervised learning, data preprocessing, feature engineering, and model optimization.
+- Developed several end-to-end ML projects, including real-time prediction apps using Streamlit.
+- Strong background in data analysis, visualization, and model evaluation.
+- Currently expanding my expertise in deep learning and AI-powered applications. 
 
 ---
 
@@ -71,26 +72,6 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
 </p>
-
----
-
-## Projects
-
-### 🔹 [Student Performance Prediction](https://github.com/elnaggar74/Student-Performance-Prediction)
-A machine learning model that predicts student performance using Multiple Linear Regression.  
-**Tech Stack:** `Python` · `Scikit-learn` · `Regression` · `Data Preprocessing` · `Feature Engineering`
-
----
-
-### 🔹 [NYC Airbnb Market Analysis 2024](https://github.com/elnaggar74/NYC-Airbnb-Project)
-A detailed market analysis of New York City’s Airbnb data from 2024, highlighting price trends and neighborhood insights.  
-**Tech Stack:** `Python` · `Pandas` · `EDA` · `Data Cleaning` · `Visualization`
-
----
-
-### 🔹 [Netflix Movies and TV Shows Analysis](https://github.com/elnaggar74/Netflix-Movies-and-TV-Shows)
-Insights into Netflix’s content distribution, genre trends, and yearly release patterns.  
-**Tech Stack:** `Python` · `Pandas` · `Matplotlib` · `Seaborn` · `EDA`
 
 ---
 
